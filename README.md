@@ -2,8 +2,7 @@
 
 Blockchain and decentralized network in the javascript programming language made using the Udemy Tutorial-Learn Blockchain By Building Your Own In JavaScript-Eric Traub.
 
-![Block-Explorer_1](https://user-images.githubusercontent.com/98936054/160555542-44621845-3ff7-4413-9353-9cec86b9d9e6.jpg) 
-![Block-Explorer_2](https://user-images.githubusercontent.com/98936054/160555734-a021ad7e-318f-4b4c-858a-6f5b106ad9c3.jpg)
+![Block-Explorer_1](https://user-images.githubusercontent.com/98936054/160555542-44621845-3ff7-4413-9353-9cec86b9d9e6.jpg) ![Block-Explorer_2](https://user-images.githubusercontent.com/98936054/160555734-a021ad7e-318f-4b4c-858a-6f5b106ad9c3.jpg)
 
 This blockchain will have all of the following features:
 
